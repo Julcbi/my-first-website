@@ -20,7 +20,7 @@ This project involves both design and functionality, allowing me to apply my ski
 ## Preview
 
 You can view the live version of this project here:  
-()
+(https://julcbi.github.io/my-first-website/)
 
 ## Contact
 
